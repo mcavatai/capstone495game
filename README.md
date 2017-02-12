@@ -3,6 +3,14 @@ A short webcam-controlled game, built for my CSC495 capstone project.
 
 Detailed description in the .docx file.
 
+###### SickDemo rules
+- Press Q to toggle sickness on/off. When the rock is sick, its happiness will decrease by 3 points every 2 seconds.
+- Mouse over the white box to open the medicine menu
+- When the menu is open, mouse over the pill to grab it
+- Bring the pill to the rock using the mouse.
+- If the pill is given to the rock while it is sick, its happiness will increase by 15, and its sickness will be cured
+- If the rock is not sick, the pill will lower its happiness by 15.
+
 ###### PoopDemo rules
 - Press Q to spawn poop. 
 - Mouse over poop to dispose of it.
