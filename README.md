@@ -3,6 +3,11 @@ A short webcam-controlled game, built for my CSC495 capstone project.
 
 Detailed description in the .docx file.
 
+###### Demo (Mouse controls only) - FullDemoMouseOnly.jar
+- Basic controls: Mouse over icons to open menus/select objects to give to your rock.
+- Mousing over a menu icon (bottom row) while the corresponding menu is open closes the menu.
+- If you are holding an object, you can discard it with the trash can or apply it to the rock.
+
 ###### SickDemo rules
 - Press Q to toggle sickness on/off. When the rock is sick, its happiness will decrease by 3 points every 2 seconds.
 - Mouse over the white box to open the medicine menu
