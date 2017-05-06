@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Mike\Desktop\Coding\ColorTrackingOpenCV-master\sr
+ c\ledObjectTrack.java
+Main-Class: ledObjectTrack
+
